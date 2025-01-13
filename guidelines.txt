@@ -1,0 +1,14 @@
+max lines = 3
+min bet = 10
+max bet = 1000
+deposit : 10 - 1000
+bet : 10 - 1000
+names.. 
+
+ask age > 18
+
+if all are same number - number*bet + balance 
+if numbers are 0 - lose all bet
+else - deposit - bet
+after every turn - display balance and ask stop or continue
+balance < 10, want to deposit more? or stop
